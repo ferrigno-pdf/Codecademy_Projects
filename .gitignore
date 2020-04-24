@@ -1,0 +1,23 @@
+.DS_Store
+	.Trash/
+	.anaconda/
+	.atom/
+	.bash_history
+	.bash_sessions/
+	.condarc
+	.gitconfig
+	.gitignore
+	.gitignore.swp
+	.kite/
+	.pylint.d/
+	.ssh/
+	.vim/
+	.viminfo
+	.vscode/
+	Desktop/
+	Documents/
+	Downloads/
+	Library/
+	Music/
+README.md
+.gitignore
